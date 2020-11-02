@@ -2,6 +2,12 @@ package com.bhole.advanced_ds.rmq;
 
 import java.util.Arrays;
 
+/*
+ Preprocess given array to address get minimum from low to high queries in o(1).
+ query time: o(1)
+ preprocessing time : o(n logn)
+ space: o(n logn)
+ */
 public class SparseTable {
     int input[];
     int sparseTable[][];

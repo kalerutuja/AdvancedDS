@@ -1,10 +1,13 @@
 package com.bhole.advanced_ds.rmq;
 
 /*
-    Construct segment tree with TreeNode as storage and get the Range minimum query result in log(n),
-    store the range at node to speedup selection process.
-    Best Case : o(1)
-    Worst Case: log(n)
+    Construct segment tree with TreeNode as storage and get the Range minimum query result in log(n).
+    query Best Case : o(1)
+    query Worst Case: log(n)
+
+    query: log (n)
+    preprocessing : o(n)
+    space: 0(n)
  */
 public class SegmentTree {
 

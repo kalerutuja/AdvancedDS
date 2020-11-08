@@ -1,4 +1,4 @@
-package com.bhole.advance_ds.rmq;
+package com.bhole.advanced_ds.rmq;
 
 import com.bhole.advanced_ds.rmq.SquareRootDecomposition;
 import org.junit.Assert;

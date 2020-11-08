@@ -2,6 +2,9 @@ package com.bhole.advanced_ds.rmq;
 
 import java.util.Arrays;
 
+/*
+
+ */
 public class SquareRootDecomposition {
     int input[];
     int blockResult[];

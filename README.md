@@ -13,3 +13,8 @@
   3. Generic Recurrence Relations 
   4. SubSetSum and SubSetSum Divisible s  
   5. Ugly Numbers
+  6. Edit Distance
+  7. 0/1 Knapsack 
+  8. Longest Common Subsequence 
+  9. Max Length Snake Seq
+

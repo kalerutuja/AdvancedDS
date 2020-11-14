@@ -17,4 +17,6 @@
   7. 0/1 Knapsack 
   8. Longest Common Subsequence 
   9. Max Length Snake Seq
+  10. Egg Dropping Puzzle
+  11. Matrix Chain Multiplication
 

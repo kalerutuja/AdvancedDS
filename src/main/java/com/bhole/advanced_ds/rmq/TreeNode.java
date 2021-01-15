@@ -3,9 +3,9 @@ package com.bhole.advanced_ds.rmq;
 import java.util.Objects;
 
 public class TreeNode {
-    Integer value;
-    TreeNode left;
-    TreeNode right;
+    public Integer value;
+    public TreeNode left;
+    public TreeNode right;
 
     public TreeNode() {
     }
